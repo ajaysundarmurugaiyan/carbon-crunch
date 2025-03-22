@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Fonts: Google Fonts, [Other Font Sources]
 - Images: [Image Sources/Credits]
 
-Project Link: [https://github.com/your-username/carbon-crunch](https://carbon-crunch-rose.vercel.app/)
+Project Link: [https://github.com/ajaysundarmurugaiyan/carbon-crunch].
