@@ -4,7 +4,7 @@ A modern, responsive landing page built with React, Tailwind CSS, and modern web
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://your-deployment-url-here) <!-- You'll update this after deployment -->
+[View Live Demo](https://carbon-crunch-rose.vercel.app/)
 
 ## ✨ Features
 
@@ -25,30 +25,7 @@ A modern, responsive landing page built with React, Tailwind CSS, and modern web
 - **Intersection Observer API**: For scroll-based animations
 - **CSS Custom Properties**: For dynamic animations
 - **Modern CSS**: Including Flexbox and Grid
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/carbon-crunch.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   cd carbon-crunch
-   npm install
-   ```
-
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Build for production:
-   ```bash
-   npm run build
-   ```
-
+- 
 ## 📁 Project Structure
 
 ```
@@ -69,7 +46,7 @@ carbon-crunch/
 ## 🎨 External Assets
 
 ### Images
-- Earth illustration: `public/earth.png` (Created by [Author Name])
+- Earth illustration: `public/earth.png`
 
 ### Fonts
 - DM Sans: Google Fonts (Open Source)
@@ -77,14 +54,6 @@ carbon-crunch/
 
 ### Icons
 - React Icons (MIT License)
-
-## 🔧 Configuration
-
-### Environment Variables
-Create a `.env` file in the root directory:
-```env
-VITE_APP_TITLE=Carbon Crunch
-```
 
 ## 📱 Responsive Design
 
@@ -121,8 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Fonts: Google Fonts, [Other Font Sources]
 - Images: [Image Sources/Credits]
 
-## 📞 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your-username/carbon-crunch](https://github.com/your-username/carbon-crunch)
+Project Link: [https://github.com/your-username/carbon-crunch](https://carbon-crunch-rose.vercel.app/)
